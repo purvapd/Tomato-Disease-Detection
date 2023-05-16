@@ -7,6 +7,9 @@
 These are common diseases that cause significant crop yield and quality losses.**
 	
 Clone my Github repository on your local system :- https://github.com/purvapd/Tomato-Disease-Detection
+Download The dataset for the project: https://www.kaggle.com/datasets/psuryawanshi/tomato-disease-detection
+
+And unzip in into the directory :- Tomato-Disease-Detection\training\kaggle_dataset
 
 ### To create a deep learning model, follow these steps:
 
