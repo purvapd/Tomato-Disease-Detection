@@ -51,7 +51,7 @@ Tomato-Disease-Detection\saved_models\1
 
 		Key: file (select file type only)
 
-		Value: Select an image of a potato leaf as a file.
+		Value: Select an image of a tomato leaf as a file.
 
 		You will receive a response as follows:
 
